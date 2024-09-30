@@ -1,5 +1,9 @@
 A Collection of Images
 
-Shiny Sprites
-Non Shiny Sprites
-Custom Icons
+
+
+- Shiny Sprites
+
+- Non Shiny Sprites
+
+- Custom Icons
